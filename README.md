@@ -23,8 +23,7 @@ This assessment will test you on your understanding of:
 
 ## Set up
 
-Clone the assessment repository from
-[https://github.com/appacademy/assessment-for-week-08-v2-practice-a-json-api-server].
+Clone the assessment repository.
 
 `cd` into the folder **install** the `npm` dependencies by running
 `npm install`.
